@@ -11,3 +11,17 @@ V1.0:
   LanChat does not currently perform integrity verification on transferred data, meaning any faults or errors in transfers may remain undetected by the software.
 
   The theoretical file transfer limit of this application is roughly 9.2 exabytes, so the real limit should remain your local network capabilities.
+
+
+
+
+
+
+## License
+
+LanChat is licensed under the PolyForm Noncommercial License 1.0.0.
+
+You may use, modify, and redistribute LanChat for noncommercial purposes.
+Commercial use is not permitted.
+
+LanChat is provided as-is, without warranty. See LICENSE for the complete terms.
