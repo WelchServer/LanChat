@@ -1,7 +1,7 @@
 # LanChat
 A Local Area Network service that allows for basic no-nonsense message and file transfer over local public IPs.
 
-V1.0
+V1.0:
   Install the zip, unpack, run LanChat.exe inside the folder.
   Enter Name (any name) and the IP address of the computer you would like to reach, that computer will need to do the same but with your IP address.
 
