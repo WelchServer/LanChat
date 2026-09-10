@@ -25,3 +25,14 @@ You may use, modify, and redistribute LanChat for noncommercial purposes.
 Commercial use is not permitted.
 
 LanChat is provided as-is, without warranty. See LICENSE for the complete terms.
+
+
+
+
+
+
+## AI
+
+WelchServer and welchserver.com are actively built with the assistance of the AI service ChatGPT, developed by OpenAI. The use of AI services aids WelchServer in remaining independent while continuing to develop steadily. WelchServer and welchserver.com are owned and operated independently and is not affiliated, endorsed, or sponsored by ChatGPT or OpenAI.
+
+More explicitly, for LanChat, ChatGPT was used to help create the GUI for LanChat and to organize the code for each finished release.
