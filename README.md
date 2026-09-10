@@ -35,4 +35,4 @@ LanChat is provided as-is, without warranty. See LICENSE for the complete terms.
 
 WelchServer and welchserver.com are actively built with the assistance of the AI service ChatGPT, developed by OpenAI. The use of AI services aids WelchServer in remaining independent while continuing to develop steadily. WelchServer and welchserver.com are owned and operated independently and is not affiliated, endorsed, or sponsored by ChatGPT or OpenAI.
 
-More explicitly, for LanChat, ChatGPT was used to help create the GUI for LanChat and to organize the code for each finished release.
+More explicitly, for LanChat, ChatGPT was used to help create the GUI for LanChat v1.0 and to organize the code for each finished release.
